@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0 means once. The next reminder is created when you complete this one.</key>
+	<string>0 means once. The next reminder is created when you complete this one.</string>
+	<key>A camera is not available on this device.</key>
+	<string>A camera is not available on this device.</string>
+	<key>A field guide
+for everyday care.</key>
+	<string>A field guide
+for everyday care.</string>
+	<key>A good day
+for your flock.</key>
+	<string>A good day
+for your flock.</string>
+	<key>A little care goes a long way</key>
+	<string>A little care goes a long way</string>
+	<key>Add bird</key>
+	<string>Add bird</string>
+	<key>Add care reminder</key>
+	<string>Add care reminder</string>
+	<key>Add feed</key>
+	<string>Add feed</string>
+	<key>Add the feed you have in storage, then record what you use.</key>
+	<string>Add the feed you have in storage, then record what you use.</string>
+	<key>Add your first bird with a name, breed and hatch date. Your records stay on this device.</key>
+	<string>Add your first bird with a name, breed and hatch date. Your records stay on this device.</string>
+	<key>Added</key>
+	<string>Added</string>
+	<key>Adjust count</key>
+	<string>Adjust count</string>
+	<key>Age, moulting, daylight, stress and nutrition can change egg numbers. Compare daily records over several weeks rather than assuming disease from one low day. Straining, weakness or a swollen abdomen need prompt veterinary assessment. Do not attempt to remove an egg yourself.</key>
+	<string>Age, moulting, daylight, stress and nutrition can change egg numbers. Compare daily records over several weeks rather than assuming disease from one low day. Straining, weakness or a swollen abdomen need prompt veterinary assessment. Do not attempt to remove an egg yourself.</string>
+	<key>Alerts are off</key>
+	<string>Alerts are off</string>
+	<key>Alerts enabled</key>
+	<string>Alerts enabled</string>
+	<key>Autumn</key>
+	<string>Autumn</string>
+	<key>Backyard Coop</key>
+	<string>Backyard Coop</string>
+	<key>Baseline: 115 g per hen daily. This is a planning estimate, not a feed formulation.</key>
+	<string>Baseline: 115 g per hen daily. This is a planning estimate, not a feed formulation.</string>
+	<key>Bird card</key>
+	<string>Bird card</string>
+	<key>Bird details</key>
+	<string>Bird details</string>
+	<key>Birds</key>
+	<string>Birds</string>
+	<key>Breed</key>
+	<string>Breed</string>
+	<key>Breed not recorded</key>
+	<string>Breed not recorded</string>
+	<key>Camera access is off. Choose a photo or enable the camera in device Settings.</key>
+	<string>Camera access is off. Choose a photo or enable the camera in device Settings.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Care</key>
+	<string>Care</string>
+	<key>Care calendar</key>
+	<string>Care calendar</string>
+	<key>Care due</key>
+	<string>Care due</string>
+	<key>Care notifications</key>
+	<string>Care notifications</string>
+	<key>Care reminder</key>
+	<string>Care reminder</string>
+	<key>Care today</key>
+	<string>Care today</string>
+	<key>Category</key>
+	<string>Category</string>
+	<key>Changes in laying</key>
+	<string>Changes in laying</string>
+	<key>Check feather bases, skin and coop crevices for irritation or tiny moving specks. Pale combs, feather damage and reduced laying can have many causes. Record what you see and ask a poultry veterinarian to identify the problem before treatment. Keep bedding clean and inspect the rest of the flock.</key>
+	<string>Check feather bases, skin and coop crevices for irritation or tiny moving specks. Pale combs, feather damage and reduced laying can have many causes. Record what you see and ask a poultry veterinarian to identify the problem before treatment. Keep bedding clean and inspect the rest of the flock.</string>
+	<key>Check predator barriers</key>
+	<string>Check predator barriers</string>
+	<key>Check shade and water</key>
+	<string>Check shade and water</string>
+	<key>Check shelter for drafts</key>
+	<string>Check shelter for drafts</string>
+	<key>Check ventilation daily</key>
+	<string>Check ventilation daily</string>
+	<key>Choose bird photo</key>
+	<string>Choose bird photo</string>
+	<key>Choose the season where you live. Checks are kept for the current year.</key>
+	<string>Choose the season where you live. Checks are kept for the current year.</string>
+	<key>Collect eggs</key>
+	<string>Collect eggs</string>
+	<key>Collection date</key>
+	<string>Collection date</string>
+	<key>Complete care</key>
+	<string>Complete care</string>
+	<key>Complete layer feed</key>
+	<string>Complete layer feed</string>
+	<key>Could not create the report.</key>
+	<string>Could not create the report.</string>
+	<key>Could not read the local journal. Your file was kept.</key>
+	<string>Could not read the local journal. Your file was kept.</string>
+	<key>Could not save. Please check available device storage.</key>
+	<string>Could not save. Please check available device storage.</string>
+	<key>Could not write to Apple Reminders. Your local care record is safe.</key>
+	<string>Could not write to Apple Reminders. Your local care record is safe.</string>
+	<key>Create a list in Apple Reminders first.</key>
+	<string>Create a list in Apple Reminders first.</string>
+	<key>Days</key>
+	<string>Days</string>
+	<key>Deep clean the coop</key>
+	<string>Deep clean the coop</string>
+	<key>Delete record</key>
+	<string>Delete record</string>
+	<key>Delete this record?</key>
+	<string>Delete this record?</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Due</key>
+	<string>Due</string>
+	<key>Egg collection</key>
+	<string>Egg collection</string>
+	<key>Egg count</key>
+	<string>Egg count</string>
+	<key>Egg journal</key>
+	<string>Egg journal</string>
+	<key>Egg totals, feed supplies and the care your flock needs today.</key>
+	<string>Egg totals, feed supplies and the care your flock needs today.</string>
+	<key>Eggs</key>
+	<string>Eggs</string>
+	<key>Eggs collected</key>
+	<string>Eggs collected</string>
+	<key>Enable care alerts</key>
+	<string>Enable care alerts</string>
+	<key>Every egg, accounted for.</key>
+	<string>Every egg, accounted for.</string>
+	<key>Everyday biosecurity</key>
+	<string>Everyday biosecurity</string>
+	<key>Export report</key>
+	<string>Export report</string>
+	<key>Feed</key>
+	<string>Feed</string>
+	<key>Feed &amp; health library</key>
+	<string>Feed &amp; health library</string>
+	<key>Feed &amp; supplies</key>
+	<string>Feed &amp; supplies</string>
+	<key>Feed entry</key>
+	<string>Feed entry</string>
+	<key>Feed name</key>
+	<string>Feed name</string>
+	<key>Feed needed</key>
+	<string>Feed needed</string>
+	<key>Feed store</key>
+	<string>Feed store</string>
+	<key>Feed used (kg)</key>
+	<string>Feed used (kg)</string>
+	<key>Feeding</key>
+	<string>Feeding</string>
+	<key>Field guide</key>
+	<string>Field guide</string>
+	<key>Flock</key>
+	<string>Flock</string>
+	<key>For adult laying hens on complete layer feed. Adjust to the feed label, bird condition and local advice.</key>
+	<string>For adult laying hens on complete layer feed. Adjust to the feed label, bird condition and local advice.</string>
+	<key>Get a local alert at each care time. Permission is optional and can be changed in device Settings.</key>
+	<string>Get a local alert at each care time. Permission is optional and can be changed in device Settings.</string>
+	<key>Good feed. Healthy hens.</key>
+	<string>Good feed. Healthy hens.</string>
+	<key>Grams per bird / day</key>
+	<string>Grams per bird / day</string>
+	<key>Guide</key>
+	<string>Guide</string>
+	<key>Hatch date</key>
+	<string>Hatch date</string>
+	<key>Health check</key>
+	<string>Health check</string>
+	<key>Include completed</key>
+	<string>Include completed</string>
+	<key>Inspect birds and bedding</key>
+	<string>Inspect birds and bedding</string>
+	<key>Inspect for mites</key>
+	<string>Inspect for mites</string>
+	<key>Inspect roof and fencing</key>
+	<string>Inspect roof and fencing</string>
+	<key>Journal</key>
+	<string>Journal</string>
+	<key>Keep an eye on supplies</key>
+	<string>Keep an eye on supplies</string>
+	<key>Keep bedding dry</key>
+	<string>Keep bedding dry</string>
+	<key>Keep drinking water unfrozen</key>
+	<string>Keep drinking water unfrozen</string>
+	<key>Keep feed cool and dry</key>
+	<string>Keep feed cool and dry</string>
+	<key>Keep wild birds and rodents away from feed and water. Use dedicated coop footwear and wash hands after handling birds or equipment. Keep new arrivals separate and ask a veterinarian about a suitable quarantine plan. Clean drinkers and keep bedding dry. Avoid sharing equipment between flocks.</key>
+	<string>Keep wild birds and rodents away from feed and water. Use dedicated coop footwear and wash hands after handling birds or equipment. Keep new arrivals separate and ask a veterinarian about a suitable quarantine plan. Clean drinkers and keep bedding dry. Avoid sharing equipment between flocks.</string>
+	<key>Last 7 days</key>
+	<string>Last 7 days</string>
+	<key>Little routines,
+lasting wellbeing.</key>
+	<string>Little routines,
+lasting wellbeing.</string>
+	<key>Log eggs</key>
+	<string>Log eggs</string>
+	<key>Make room for your flock</key>
+	<string>Make room for your flock</string>
+	<key>Mites and parasites</key>
+	<string>Mites and parasites</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>No ads, purchases, analytics or tracking. Flock photos, notes and care records stay on your device. If enabled, iCloud stores them in your private Apple account. Apple Reminders receives only care items you choose to send. Shared reports are controlled by you. Delete any record from its edit screen. No account is required. The field guide is educational and does not diagnose illness; contact a poultry veterinarian for sick birds.</key>
+	<string>No ads, purchases, analytics or tracking. Flock photos, notes and care records stay on your device. If enabled, iCloud stores them in your private Apple account. Apple Reminders receives only care items you choose to send. Shared reports are controlled by you. Delete any record from its edit screen. No account is required. The field guide is educational and does not diagnose illness; contact a poultry veterinarian for sick birds.</string>
+	<key>No care due</key>
+	<string>No care due</string>
+	<key>Notes</key>
+	<string>Notes</string>
+	<key>Notifications are off. Care stays in the app; you can enable alerts in Settings.</key>
+	<string>Notifications are off. Care stays in the app; you can enable alerts in Settings.</string>
+	<key>Notifications are unavailable. Care stays saved locally.</key>
+	<string>Notifications are unavailable. Care stays saved locally.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open device Settings</key>
+	<string>Open device Settings</string>
+	<key>Other</key>
+	<string>Other</string>
+	<key>Plan feeding, egg collection or a health check. Alerts are optional; the calendar always works offline.</key>
+	<string>Plan feeding, egg collection or a health check. Alerts are optional; the calendar always works offline.</string>
+	<key>Privacy</key>
+	<string>Privacy</string>
+	<key>Privacy &amp; app information</key>
+	<string>Privacy &amp; app information</string>
+	<key>Private by nature. Works offline.</key>
+	<string>Private by nature. Works offline.</string>
+	<key>Quantity (kg)</key>
+	<string>Quantity (kg)</string>
+	<key>Ration planner</key>
+	<string>Ration planner</string>
+	<key>Read the source</key>
+	<string>Read the source</string>
+	<key>Record each collection. The chart totals all collections for each day.</key>
+	<string>Record each collection. The chart totals all collections for each day.</string>
+	<key>Record feed used</key>
+	<string>Record feed used</string>
+	<key>Reference</key>
+	<string>Reference</string>
+	<key>Reminders access was declined. Your care schedule remains available here.</key>
+	<string>Reminders access was declined. Your care schedule remains available here.</string>
+	<key>Remove photo</key>
+	<string>Remove photo</string>
+	<key>Repeat every (days)</key>
+	<string>Repeat every (days)</string>
+	<key>Repeating care creates the next due date when completed. Up to 60 upcoming alerts are scheduled; opening the app refreshes them.</key>
+	<string>Repeating care creates the next due date when completed. Up to 60 upcoming alerts are scheduled; opening the app refreshes them.</string>
+	<key>Respiratory warning signs</key>
+	<string>Respiratory warning signs</string>
+	<key>Review feed supplies</key>
+	<string>Review feed supplies</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Saved to Apple Reminders. Future edits there do not change this journal.</key>
+	<string>Saved to Apple Reminders. Future edits there do not change this journal.</string>
+	<key>Search the guide</key>
+	<string>Search the guide</string>
+	<key>Season</key>
+	<string>Season</string>
+	<key>Seasonal checklist</key>
+	<string>Seasonal checklist</string>
+	<key>Send to Apple Reminders</key>
+	<string>Send to Apple Reminders</string>
+	<key>Sending creates or updates a copy in Apple Reminders. Your local schedule also works without access.</key>
+	<string>Sending creates or updates a copy in Apple Reminders. Your local schedule also works without access.</string>
+	<key>Settings</key>
+	<string>Settings</string>
+	<key>Show all dates</key>
+	<string>Show all dates</string>
+	<key>Sign in to iCloud to sync. Local records are safe.</key>
+	<string>Sign in to iCloud to sync. Local records are safe.</string>
+	<key>Spring</key>
+	<string>Spring</string>
+	<key>Stored on this device</key>
+	<string>Stored on this device</string>
+	<key>Sudden deaths, severe breathing trouble or several sick birds at once need urgent veterinary advice. Keep people and equipment from moving between flocks. Contact your local animal-health authority about current avian influenza guidance and reporting rules. The offline guide does not provide current outbreak status.</key>
+	<string>Sudden deaths, severe breathing trouble or several sick birds at once need urgent veterinary advice. Keep people and equipment from moving between flocks. Contact your local animal-health authority about current avian influenza guidance and reporting rules. The offline guide does not provide current outbreak status.</string>
+	<key>Sudden illness in the flock</key>
+	<string>Sudden illness in the flock</string>
+	<key>Summer</key>
+	<string>Summer</string>
+	<key>Sync now</key>
+	<string>Sync now</string>
+	<key>Sync uses your private iCloud storage. The newest edit wins for each record. Records and photos are always kept locally; sync errors never remove them.</key>
+	<string>Sync uses your private iCloud storage. The newest edit wins for each record. Records and photos are always kept locally; sync errors never remove them.</string>
+	<key>Sync with iCloud</key>
+	<string>Sync with iCloud</string>
+	<key>Syncing with iCloud…</key>
+	<string>Syncing with iCloud…</string>
+	<key>Take bird photo</key>
+	<string>Take bird photo</string>
+	<key>Task name</key>
+	<string>Task name</string>
+	<key>The amount is deducted from your oldest feed entries first.</key>
+	<string>The amount is deducted from your oldest feed entries first.</string>
+	<key>This photo could not be opened.</key>
+	<string>This photo could not be opened.</string>
+	<key>Up to date in iCloud</key>
+	<string>Up to date in iCloud</string>
+	<key>Use a complete feed labelled for adult laying hens. A useful planning baseline is about 115 g per hen daily; real intake varies with breed, temperature and production. Follow the feed label and monitor body condition. Do not give high-calcium layer feed to growing chicks. Keep fresh water available.</key>
+	<string>Use a complete feed labelled for adult laying hens. A useful planning baseline is about 115 g per hen daily; real intake varies with breed, temperature and production. Follow the feed label and monitor body condition. Do not give high-calcium layer feed to growing chicks. Keep fresh water available.</string>
+	<key>Weekly eggs</key>
+	<string>Weekly eggs</string>
+	<key>Wheezing, repeated sneezing, discharge, reduced appetite or unusual quietness need attention. Separate an unwell bird, provide water and contact a poultry veterinarian. Breathing difficulty or sudden deaths require urgent advice. A journal cannot identify the cause; do not choose medicines from symptoms alone.</key>
+	<string>Wheezing, repeated sneezing, discharge, reduced appetite or unusual quietness need attention. Separate an unwell bird, provide water and contact a poultry veterinarian. Breathing difficulty or sudden deaths require urgent advice. A journal cannot identify the cause; do not choose medicines from symptoms alone.</string>
+	<key>Winter</key>
+	<string>Winter</string>
+	<key>YOUR LITTLE FARM</key>
+	<string>YOUR LITTLE FARM</string>
+	<key>Your birds</key>
+	<string>Your birds</string>
+	<key>Your data</key>
+	<string>Your data</string>
+	<key>Your egg diary starts here</key>
+	<string>Your egg diary starts here</string>
+	<key>Your flock care is due.</key>
+	<string>Your flock care is due.</string>
+	<key>iCloud account changed. Sync is paused to protect this journal.</key>
+	<string>iCloud account changed. Sync is paused to protect this journal.</string>
+	<key>iCloud is unavailable. Everything stays on this device.</key>
+	<string>iCloud is unavailable. Everything stays on this device.</string>
+	<key>iCloud journal</key>
+	<string>iCloud journal</string>
+	<key>kg in store</key>
+	<string>kg in store</string>
+	<key>reminders</key>
+	<string>reminders</string>
+</dict>
+</plist>

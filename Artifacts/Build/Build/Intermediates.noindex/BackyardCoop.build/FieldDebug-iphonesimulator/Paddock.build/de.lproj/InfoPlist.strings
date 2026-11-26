@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Fotografiere einen Vogel, um ihn im Bestandstagebuch zu erkennen.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Wähle ein vorhandenes Vogelfoto für die Bestandskarte.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Speichere und aktualisiere selbst gewählte Geflügelpflege in Apple Erinnerungen.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Übertrage ausgewählte Pflegeaufgaben in deine Apple-Erinnerungslisten.</string>
+</dict>
+</plist>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>1B910CB7-65A4-4510-92F6-2C6AFC946CE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B910CB7-65A4-4510-92F6-2C6AFC946CE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackyardCoop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Paddock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>timeStartedRecording</key>
+			<real>816429470.35706306</real>
+			<key>timeStoppedRecording</key>
+			<real>816429472.67699599</real>
+			<key>title</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>uniqueIdentifier</key>
+			<string>1B910CB7-65A4-4510-92F6-2C6AFC946CE1</string>
+		</dict>
+		<key>AE75CA83-F313-4387-A2C8-87259794DCF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE75CA83-F313-4387-A2C8-87259794DCF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackyardCoop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Paddock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>timeStartedRecording</key>
+			<real>816429413.33485305</real>
+			<key>timeStoppedRecording</key>
+			<real>816429414.38972795</real>
+			<key>title</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>uniqueIdentifier</key>
+			<string>AE75CA83-F313-4387-A2C8-87259794DCF7</string>
+		</dict>
+		<key>B82F0673-0D77-4D76-9F08-2B06AE676FA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B82F0673-0D77-4D76-9F08-2B06AE676FA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackyardCoop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Paddock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>timeStartedRecording</key>
+			<real>816429209.666803</real>
+			<key>timeStoppedRecording</key>
+			<real>816429220.68317497</real>
+			<key>title</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>uniqueIdentifier</key>
+			<string>B82F0673-0D77-4D76-9F08-2B06AE676FA2</string>
+		</dict>
+		<key>D8696FAE-C018-4F69-821A-C386D0E80CEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8696FAE-C018-4F69-821A-C386D0E80CEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackyardCoop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Paddock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>timeStartedRecording</key>
+			<real>816429526.22210002</real>
+			<key>timeStoppedRecording</key>
+			<real>816429533.70305395</real>
+			<key>title</key>
+			<string>Building project BackyardCoop for testing with scheme Paddock</string>
+			<key>uniqueIdentifier</key>
+			<string>D8696FAE-C018-4F69-821A-C386D0E80CEE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

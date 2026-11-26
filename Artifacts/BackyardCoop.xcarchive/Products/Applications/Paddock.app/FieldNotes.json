@@ -1,0 +1,44 @@
+[
+  {
+    "id": "complete",
+    "icon": "leaf.fill",
+    "title": "Complete layer feed",
+    "body": "Use a complete feed labelled for adult laying hens. A useful planning baseline is about 115 g per hen daily; real intake varies with breed, temperature and production. Follow the feed label and monitor body condition. Do not give high-calcium layer feed to growing chicks. Keep fresh water available.",
+    "source": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/"
+  },
+  {
+    "id": "bio",
+    "icon": "shield.lefthalf.filled",
+    "title": "Everyday biosecurity",
+    "body": "Keep wild birds and rodents away from feed and water. Use dedicated coop footwear and wash hands after handling birds or equipment. Keep new arrivals separate and ask a veterinarian about a suitable quarantine plan. Clean drinkers and keep bedding dry. Avoid sharing equipment between flocks.",
+    "source": "https://extension.umn.edu/agriculture/animals-and-livestock/poultry/raising-chickens-for-eggs"
+  },
+  {
+    "id": "resp",
+    "icon": "cross.case",
+    "title": "Respiratory warning signs",
+    "body": "Wheezing, repeated sneezing, discharge, reduced appetite or unusual quietness need attention. Separate an unwell bird, provide water and contact a poultry veterinarian. Breathing difficulty or sudden deaths require urgent advice. A journal cannot identify the cause; do not choose medicines from symptoms alone.",
+    "source": "https://extension.umn.edu/agriculture/animals-and-livestock/poultry/raising-chickens-for-eggs"
+  },
+  {
+    "id": "parasite",
+    "icon": "magnifyingglass",
+    "title": "Mites and parasites",
+    "body": "Check feather bases, skin and coop crevices for irritation or tiny moving specks. Pale combs, feather damage and reduced laying can have many causes. Record what you see and ask a poultry veterinarian to identify the problem before treatment. Keep bedding clean and inspect the rest of the flock.",
+    "source": "https://extension.umn.edu/agriculture/animals-and-livestock/poultry/raising-chickens-for-eggs"
+  },
+  {
+    "id": "lay",
+    "icon": "oval.portrait",
+    "title": "Changes in laying",
+    "body": "Age, moulting, daylight, stress and nutrition can change egg numbers. Compare daily records over several weeks rather than assuming disease from one low day. Straining, weakness or a swollen abdomen need prompt veterinary assessment. Do not attempt to remove an egg yourself.",
+    "source": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry"
+  },
+  {
+    "id": "flu",
+    "icon": "exclamationmark.shield",
+    "title": "Sudden illness in the flock",
+    "body": "Sudden deaths, severe breathing trouble or several sick birds at once need urgent veterinary advice. Keep people and equipment from moving between flocks. Contact your local animal-health authority about current avian influenza guidance and reporting rules. The offline guide does not provide current outbreak status.",
+    "source": "https://www.bah.state.mn.us/sites/default/files/documents/Biosecurity-Guide-Checklist.pdf"
+  }
+]

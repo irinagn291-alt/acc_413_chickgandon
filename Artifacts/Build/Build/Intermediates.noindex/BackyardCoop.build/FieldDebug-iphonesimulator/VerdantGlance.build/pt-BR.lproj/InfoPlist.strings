@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Fotografe uma ave para reconhecê-la no diário do plantel.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Escolha uma foto existente para a ficha da ave.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Salve e atualize os cuidados de aves escolhidos no Lembretes da Apple.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Copie os cuidados selecionados para suas listas do Lembretes da Apple.</string>
+</dict>
+</plist>

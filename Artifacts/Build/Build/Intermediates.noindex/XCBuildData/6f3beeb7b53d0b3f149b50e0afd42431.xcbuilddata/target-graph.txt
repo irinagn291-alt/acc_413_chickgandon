@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Paddock' in project 'BackyardCoop'
+➜ Explicit dependency on target 'VerdantGlance' in project 'BackyardCoop'
+Target 'VerdantGlance' in project 'BackyardCoop' (no dependencies)

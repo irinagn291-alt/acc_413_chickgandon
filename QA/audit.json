@@ -1,0 +1,33 @@
+{
+  "concepts15nov/04_chicken_road/04_backyard_coop.md": {
+    "sha256": "e13f69f0b34e13c1f0d65a393eac15b9b71961d5b8bc5ae2dac516997f17db40",
+    "matches": true
+  },
+  "concepts15nov/README.md": {
+    "sha256": "f0134d4bc1eab47d1b8d3e37be06fc510be0744a7dc17b95e258885e08ef7e93",
+    "matches": true
+  },
+  "pbxUUIDs": {
+    "own": 74,
+    "projectsCompared": 67,
+    "collisions": []
+  },
+  "swiftFiles": [
+    "Source/B8Yard.swift",
+    "Source/V2Nest.swift",
+    "Source/U5Feather.swift",
+    "Source/H7Leaf.swift",
+    "Glance/K3Patch.swift",
+    "Checks/N6Proof.swift"
+  ],
+  "localizedKeys": 162,
+  "locales": [
+    "en",
+    "de",
+    "fr",
+    "pt-BR"
+  ],
+  "allTranslationsComplete": true,
+  "personalSourceTraces": [],
+  "bannedUIWords": []
+}

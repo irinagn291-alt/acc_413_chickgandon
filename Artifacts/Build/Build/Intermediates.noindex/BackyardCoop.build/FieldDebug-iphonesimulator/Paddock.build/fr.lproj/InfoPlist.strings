@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Prenez un portrait pour reconnaître un oiseau dans votre journal.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choisissez une photo existante pour la fiche de l’oiseau.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Enregistrez et actualisez les soins choisis dans Rappels Apple.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Copiez les soins choisis dans vos listes Rappels Apple.</string>
+</dict>
+</plist>

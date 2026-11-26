@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0 means once. The next reminder is created when you complete this one.</key>
+	<string>0 significa uma vez. O próximo lembrete é criado ao concluir este.</string>
+	<key>A camera is not available on this device.</key>
+	<string>A câmera não está disponível neste aparelho.</string>
+	<key>A field guide
+for everyday care.</key>
+	<string>Um guia prático
+para todo dia.</string>
+	<key>A good day
+for your flock.</key>
+	<string>Um bom dia
+para suas aves.</string>
+	<key>A little care goes a long way</key>
+	<string>Pequenos cuidados fazem diferença</string>
+	<key>Add bird</key>
+	<string>Adicionar ave</string>
+	<key>Add care reminder</key>
+	<string>Agendar cuidado</string>
+	<key>Add feed</key>
+	<string>Adicionar ração</string>
+	<key>Add the feed you have in storage, then record what you use.</key>
+	<string>Adicione a ração em estoque e registre o consumo.</string>
+	<key>Add your first bird with a name, breed and hatch date. Your records stay on this device.</key>
+	<string>Adicione a primeira ave com nome, raça e data de nascimento. Os dados ficam neste aparelho.</string>
+	<key>Added</key>
+	<string>Adicionado</string>
+	<key>Adjust count</key>
+	<string>Ajustar quantidade</string>
+	<key>Age, moulting, daylight, stress and nutrition can change egg numbers. Compare daily records over several weeks rather than assuming disease from one low day. Straining, weakness or a swollen abdomen need prompt veterinary assessment. Do not attempt to remove an egg yourself.</key>
+	<string>Idade, muda, luz, estresse e alimentação mudam a postura. Compare registros de várias semanas, sem presumir doença por um único dia baixo. Esforço para pôr, fraqueza ou abdômen inchado exigem avaliação veterinária rápida. Não tente retirar um ovo por conta própria.</string>
+	<key>Alerts are off</key>
+	<string>Alertas desativados</string>
+	<key>Alerts enabled</key>
+	<string>Alertas ativados</string>
+	<key>Autumn</key>
+	<string>Outono</string>
+	<key>Backyard Coop</key>
+	<string>Backyard Coop</string>
+	<key>Baseline: 115 g per hen daily. This is a planning estimate, not a feed formulation.</key>
+	<string>Base: 115 g por galinha ao dia. Estimativa para planejamento, não uma fórmula de ração.</string>
+	<key>Bird card</key>
+	<string>Ficha da ave</string>
+	<key>Bird details</key>
+	<string>Dados da ave</string>
+	<key>Birds</key>
+	<string>Aves</string>
+	<key>Breed</key>
+	<string>Raça</string>
+	<key>Breed not recorded</key>
+	<string>Raça não informada</string>
+	<key>Camera access is off. Choose a photo or enable the camera in device Settings.</key>
+	<string>Acesso à câmera desativado. Escolha uma foto ou ative a câmera nos ajustes.</string>
+	<key>Cancel</key>
+	<string>Cancelar</string>
+	<key>Care</key>
+	<string>Cuidados</string>
+	<key>Care calendar</key>
+	<string>Calendário de cuidados</string>
+	<key>Care due</key>
+	<string>Cuidados pendentes</string>
+	<key>Care notifications</key>
+	<string>Alertas de cuidados</string>
+	<key>Care reminder</key>
+	<string>Lembrete de cuidado</string>
+	<key>Care today</key>
+	<string>Cuidados de hoje</string>
+	<key>Category</key>
+	<string>Categoria</string>
+	<key>Changes in laying</key>
+	<string>Mudanças na postura</string>
+	<key>Check feather bases, skin and coop crevices for irritation or tiny moving specks. Pale combs, feather damage and reduced laying can have many causes. Record what you see and ask a poultry veterinarian to identify the problem before treatment. Keep bedding clean and inspect the rest of the flock.</key>
+	<string>Examine a base das penas, a pele e frestas do galinheiro. Cristas pálidas, penas danificadas e queda na postura podem ter várias causas. Anote o que observa e peça diagnóstico veterinário antes de tratar. Mantenha a cama limpa e examine as outras aves.</string>
+	<key>Check predator barriers</key>
+	<string>Verificar proteção contra predadores</string>
+	<key>Check shade and water</key>
+	<string>Verificar sombra e água</string>
+	<key>Check shelter for drafts</key>
+	<string>Verificar correntes de ar</string>
+	<key>Check ventilation daily</key>
+	<string>Verificar ventilação diariamente</string>
+	<key>Choose bird photo</key>
+	<string>Escolher foto da ave</string>
+	<key>Choose the season where you live. Checks are kept for the current year.</key>
+	<string>Escolha a estação da sua região. As marcações ficam salvas para o ano atual.</string>
+	<key>Collect eggs</key>
+	<string>Coletar ovos</string>
+	<key>Collection date</key>
+	<string>Data da coleta</string>
+	<key>Complete care</key>
+	<string>Concluir cuidado</string>
+	<key>Complete layer feed</key>
+	<string>Ração completa para poedeiras</string>
+	<key>Could not create the report.</key>
+	<string>Não foi possível criar o relatório.</string>
+	<key>Could not read the local journal. Your file was kept.</key>
+	<string>Não foi possível ler o diário local. Seu arquivo foi mantido.</string>
+	<key>Could not save. Please check available device storage.</key>
+	<string>Não foi possível salvar. Verifique o espaço livre no aparelho.</string>
+	<key>Could not write to Apple Reminders. Your local care record is safe.</key>
+	<string>Não foi possível gravar no Lembretes da Apple. Seu registro local está seguro.</string>
+	<key>Create a list in Apple Reminders first.</key>
+	<string>Crie primeiro uma lista no Lembretes da Apple.</string>
+	<key>Days</key>
+	<string>Dias</string>
+	<key>Deep clean the coop</key>
+	<string>Limpar bem o galinheiro</string>
+	<key>Delete record</key>
+	<string>Excluir registro</string>
+	<key>Delete this record?</key>
+	<string>Excluir este registro?</string>
+	<key>Done</key>
+	<string>Concluído</string>
+	<key>Due</key>
+	<string>Prazo</string>
+	<key>Egg collection</key>
+	<string>Coleta de ovos</string>
+	<key>Egg count</key>
+	<string>Quantidade de ovos</string>
+	<key>Egg journal</key>
+	<string>Diário de postura</string>
+	<key>Egg totals, feed supplies and the care your flock needs today.</key>
+	<string>Total de ovos, estoque de ração e cuidados do plantel para hoje.</string>
+	<key>Eggs</key>
+	<string>Ovos</string>
+	<key>Eggs collected</key>
+	<string>Ovos coletados</string>
+	<key>Enable care alerts</key>
+	<string>Ativar alertas</string>
+	<key>Enter 1–500 grams</key>
+	<string>Informe 1–500 gramas</string>
+	<key>Every egg, accounted for.</key>
+	<string>Cada ovo registrado.</string>
+	<key>Everyday biosecurity</key>
+	<string>Biossegurança no dia a dia</string>
+	<key>Export report</key>
+	<string>Exportar relatório</string>
+	<key>Feed</key>
+	<string>Ração</string>
+	<key>Feed &amp; health library</key>
+	<string>Alimentação e saúde</string>
+	<key>Feed &amp; supplies</key>
+	<string>Ração e estoque</string>
+	<key>Feed entry</key>
+	<string>Registro de ração</string>
+	<key>Feed name</key>
+	<string>Nome da ração</string>
+	<key>Feed needed</key>
+	<string>Ração necessária</string>
+	<key>Feed store</key>
+	<string>Estoque de ração</string>
+	<key>Feed used (kg)</key>
+	<string>Ração usada (kg)</string>
+	<key>Feeding</key>
+	<string>Alimentação</string>
+	<key>Field guide</key>
+	<string>Guia prático</string>
+	<key>Flock</key>
+	<string>Plantel</string>
+	<key>For adult laying hens on complete layer feed. Adjust to the feed label, bird condition and local advice.</key>
+	<string>Para poedeiras adultas com ração completa. Ajuste conforme o rótulo, a condição das aves e a orientação local.</string>
+	<key>Get a local alert at each care time. Permission is optional and can be changed in device Settings.</key>
+	<string>Receba um alerta local no horário de cada cuidado. A permissão é opcional e pode ser alterada nos ajustes.</string>
+	<key>Good feed. Healthy hens.</key>
+	<string>Boa ração. Galinhas saudáveis.</string>
+	<key>Grams per bird / day</key>
+	<string>Gramas por ave / dia</string>
+	<key>Guide</key>
+	<string>Guia</string>
+	<key>Hatch date</key>
+	<string>Data de nascimento</string>
+	<key>Health check</key>
+	<string>Exame de saúde</string>
+	<key>Include completed</key>
+	<string>Incluir concluídos</string>
+	<key>Inspect birds and bedding</key>
+	<string>Inspecionar aves e cama</string>
+	<key>Inspect for mites</key>
+	<string>Verificar ácaros</string>
+	<key>Inspect roof and fencing</key>
+	<string>Inspecionar telhado e cercas</string>
+	<key>Journal</key>
+	<string>Diário</string>
+	<key>Keep an eye on supplies</key>
+	<string>Acompanhe seus suprimentos</string>
+	<key>Keep bedding dry</key>
+	<string>Manter a cama seca</string>
+	<key>Keep drinking water unfrozen</key>
+	<string>Evitar congelamento da água</string>
+	<key>Keep feed cool and dry</key>
+	<string>Manter ração fresca e seca</string>
+	<key>Keep wild birds and rodents away from feed and water. Use dedicated coop footwear and wash hands after handling birds or equipment. Keep new arrivals separate and ask a veterinarian about a suitable quarantine plan. Clean drinkers and keep bedding dry. Avoid sharing equipment between flocks.</key>
+	<string>Afaste aves silvestres e roedores da ração e da água. Use calçados exclusivos no galinheiro e lave as mãos após contato. Separe aves recém-chegadas e consulte o veterinário sobre quarentena. Limpe bebedouros e mantenha a cama seca. Evite compartilhar equipamentos entre criações.</string>
+	<key>Last 7 days</key>
+	<string>Últimos 7 dias</string>
+	<key>Little routines,
+lasting wellbeing.</key>
+	<string>Pequenas rotinas,
+bem-estar duradouro.</string>
+	<key>Log eggs</key>
+	<string>Registrar ovos</string>
+	<key>Make room for your flock</key>
+	<string>Crie espaço para seu plantel</string>
+	<key>Mites and parasites</key>
+	<string>Ácaros e parasitas</string>
+	<key>Name</key>
+	<string>Nome</string>
+	<key>No ads, purchases, analytics or tracking. Flock photos, notes and care records stay on your device. If enabled, iCloud stores them in your private Apple account. Apple Reminders receives only care items you choose to send. Shared reports are controlled by you. Delete any record from its edit screen. No account is required. The field guide is educational and does not diagnose illness; contact a poultry veterinarian for sick birds.</key>
+	<string>Sem anúncios, compras, análise ou rastreamento. Fotos, anotações e cuidados ficam no aparelho. Se ativado, o iCloud os armazena na sua conta Apple privada. O Lembretes da Apple recebe só os cuidados que você envia. Você controla o compartilhamento dos relatórios. Exclua registros na tela de edição. Não é preciso criar conta. O guia é educativo e não diagnostica doenças; procure um veterinário de aves em caso de doença.</string>
+	<key>No care due</key>
+	<string>Nenhum cuidado pendente</string>
+	<key>Notes</key>
+	<string>Anotações</string>
+	<key>Notifications are off. Care stays in the app; you can enable alerts in Settings.</key>
+	<string>Alertas desativados. Os cuidados ficam no app; ative os alertas nos ajustes.</string>
+	<key>Notifications are unavailable. Care stays saved locally.</key>
+	<string>Alertas indisponíveis. Os cuidados ficam salvos localmente.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open device Settings</key>
+	<string>Abrir ajustes do aparelho</string>
+	<key>Other</key>
+	<string>Outro</string>
+	<key>Plan feeding, egg collection or a health check. Alerts are optional; the calendar always works offline.</key>
+	<string>Planeje alimentação, coleta de ovos e exames de saúde. Os alertas são opcionais; o calendário funciona offline.</string>
+	<key>Privacy</key>
+	<string>Privacidade</string>
+	<key>Privacy &amp; app information</key>
+	<string>Privacidade e informações</string>
+	<key>Private by nature. Works offline.</key>
+	<string>Privado por natureza. Funciona offline.</string>
+	<key>Quantity (kg)</key>
+	<string>Quantidade (kg)</string>
+	<key>Ration planner</key>
+	<string>Calculadora de ração</string>
+	<key>Read the source</key>
+	<string>Ler a fonte</string>
+	<key>Record each collection. The chart totals all collections for each day.</key>
+	<string>Registre cada coleta. O gráfico soma todas as coletas de cada dia.</string>
+	<key>Record feed used</key>
+	<string>Registrar uso de ração</string>
+	<key>Reference</key>
+	<string>Referência</string>
+	<key>Reminders access was declined. Your care schedule remains available here.</key>
+	<string>Acesso ao Lembretes recusado. Sua agenda continua disponível aqui.</string>
+	<key>Remove photo</key>
+	<string>Remover foto</string>
+	<key>Repeat every (days)</key>
+	<string>Repetir a cada (dias)</string>
+	<key>Repeating care creates the next due date when completed. Up to 60 upcoming alerts are scheduled; opening the app refreshes them.</key>
+	<string>Cuidados recorrentes criam a próxima data ao concluir. Até 60 alertas são agendados e atualizados ao abrir o app.</string>
+	<key>Respiratory warning signs</key>
+	<string>Sinais respiratórios de alerta</string>
+	<key>Review feed supplies</key>
+	<string>Revisar estoque de ração</string>
+	<key>Save</key>
+	<string>Salvar</string>
+	<key>Saved to Apple Reminders. Future edits there do not change this journal.</key>
+	<string>Salvo no Lembretes da Apple. Alterações feitas lá não mudam este diário.</string>
+	<key>Search the guide</key>
+	<string>Buscar no guia</string>
+	<key>Season</key>
+	<string>Estação</string>
+	<key>Seasonal checklist</key>
+	<string>Lista sazonal</string>
+	<key>Send to Apple Reminders</key>
+	<string>Enviar ao Lembretes da Apple</string>
+	<key>Sending creates or updates a copy in Apple Reminders. Your local schedule also works without access.</key>
+	<string>Cria ou atualiza uma cópia no Lembretes da Apple. A agenda local funciona sem acesso.</string>
+	<key>Settings</key>
+	<string>Ajustes</string>
+	<key>Show all dates</key>
+	<string>Mostrar todas as datas</string>
+	<key>Sign in to iCloud to sync. Local records are safe.</key>
+	<string>Entre no iCloud para sincronizar. Os registros locais estão seguros.</string>
+	<key>Spring</key>
+	<string>Primavera</string>
+	<key>Stored on this device</key>
+	<string>Salvo neste aparelho</string>
+	<key>Sudden deaths, severe breathing trouble or several sick birds at once need urgent veterinary advice. Keep people and equipment from moving between flocks. Contact your local animal-health authority about current avian influenza guidance and reporting rules. The offline guide does not provide current outbreak status.</key>
+	<string>Mortes súbitas, dificuldade respiratória grave ou várias aves doentes ao mesmo tempo exigem orientação veterinária urgente. Evite circulação de pessoas e equipamentos entre plantéis. Consulte o serviço local de saúde animal sobre influenza aviária e regras de notificação. Este guia offline não informa surtos atuais.</string>
+	<key>Sudden illness in the flock</key>
+	<string>Doença súbita no plantel</string>
+	<key>Summer</key>
+	<string>Verão</string>
+	<key>Sync now</key>
+	<string>Sincronizar agora</string>
+	<key>Sync uses your private iCloud storage. The newest edit wins for each record. Records and photos are always kept locally; sync errors never remove them.</key>
+	<string>A sincronização usa seu espaço privado no iCloud. A edição mais recente prevalece em cada registro. Registros e fotos ficam locais, mesmo com erros.</string>
+	<key>Sync with iCloud</key>
+	<string>Sincronizar com iCloud</string>
+	<key>Syncing with iCloud…</key>
+	<string>Sincronizando com iCloud…</string>
+	<key>Take bird photo</key>
+	<string>Fotografar ave</string>
+	<key>Task name</key>
+	<string>Nome da tarefa</string>
+	<key>The amount is deducted from your oldest feed entries first.</key>
+	<string>A quantidade é descontada primeiro dos registros mais antigos.</string>
+	<key>This photo could not be opened.</key>
+	<string>Não foi possível abrir esta foto.</string>
+	<key>Up to date in iCloud</key>
+	<string>Atualizado no iCloud</string>
+	<key>Use a complete feed labelled for adult laying hens. A useful planning baseline is about 115 g per hen daily; real intake varies with breed, temperature and production. Follow the feed label and monitor body condition. Do not give high-calcium layer feed to growing chicks. Keep fresh water available.</key>
+	<string>Use ração completa para poedeiras adultas. Cerca de 115 g por galinha ao dia é uma base de planejamento; o consumo varia com raça, temperatura e postura. Siga o rótulo e observe a condição corporal. Não dê ração rica em cálcio a pintinhos. Mantenha água fresca disponível.</string>
+	<key>Weekly eggs</key>
+	<string>Ovos da semana</string>
+	<key>Wheezing, repeated sneezing, discharge, reduced appetite or unusual quietness need attention. Separate an unwell bird, provide water and contact a poultry veterinarian. Breathing difficulty or sudden deaths require urgent advice. A journal cannot identify the cause; do not choose medicines from symptoms alone.</key>
+	<string>Chiado, espirros repetidos, secreção, falta de apetite ou quietude incomum merecem atenção. Separe a ave doente, ofereça água e contate um veterinário de aves. Dificuldade para respirar ou mortes súbitas exigem orientação urgente. O diário não identifica a causa; não escolha remédios só pelos sintomas.</string>
+	<key>Winter</key>
+	<string>Inverno</string>
+	<key>YOUR LITTLE FARM</key>
+	<string>SUA PEQUENA CRIAÇÃO</string>
+	<key>Your birds</key>
+	<string>Suas aves</string>
+	<key>Your data</key>
+	<string>Seus dados</string>
+	<key>Your egg diary starts here</key>
+	<string>Seu diário começa aqui</string>
+	<key>Your flock care is due.</key>
+	<string>Está na hora de cuidar das suas aves.</string>
+	<key>iCloud account changed. Sync is paused to protect this journal.</key>
+	<string>A conta iCloud mudou. A sincronização foi pausada para proteger o diário.</string>
+	<key>iCloud is unavailable. Everything stays on this device.</key>
+	<string>iCloud indisponível. Tudo fica neste aparelho.</string>
+	<key>iCloud journal</key>
+	<string>Diário no iCloud</string>
+	<key>kg in store</key>
+	<string>kg no estoque</string>
+	<key>reminders</key>
+	<string>lembretes</string>
+</dict>
+</plist>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0 means once. The next reminder is created when you complete this one.</key>
+	<string>0 bedeutet einmalig. Der nächste Termin entsteht beim Abschließen dieses Eintrags.</string>
+	<key>A camera is not available on this device.</key>
+	<string>Dieses Gerät hat keine verfügbare Kamera.</string>
+	<key>A field guide
+for everyday care.</key>
+	<string>Praxiswissen
+für jeden Tag.</string>
+	<key>A good day
+for your flock.</key>
+	<string>Ein guter Tag
+für deinen Bestand.</string>
+	<key>A little care goes a long way</key>
+	<string>Kleine Pflege, große Wirkung</string>
+	<key>Add bird</key>
+	<string>Vogel hinzufügen</string>
+	<key>Add care reminder</key>
+	<string>Pflege planen</string>
+	<key>Add feed</key>
+	<string>Futter hinzufügen</string>
+	<key>Add the feed you have in storage, then record what you use.</key>
+	<string>Erfasse deinen Futtervorrat und trage den Verbrauch ein.</string>
+	<key>Add your first bird with a name, breed and hatch date. Your records stay on this device.</key>
+	<string>Erfasse deinen ersten Vogel mit Name, Rasse und Schlupfdatum. Die Daten bleiben auf diesem Gerät.</string>
+	<key>Added</key>
+	<string>Hinzugefügt</string>
+	<key>Adjust count</key>
+	<string>Anzahl ändern</string>
+	<key>Age, moulting, daylight, stress and nutrition can change egg numbers. Compare daily records over several weeks rather than assuming disease from one low day. Straining, weakness or a swollen abdomen need prompt veterinary assessment. Do not attempt to remove an egg yourself.</key>
+	<string>Alter, Mauser, Tageslicht, Stress und Ernährung verändern die Legeleistung. Mehrere Wochen vergleichen, statt einen schwachen Tag als Krankheit zu deuten. Pressen, Schwäche oder ein geschwollener Bauch erfordern rasche tierärztliche Abklärung. Nicht selbst ein Ei entfernen.</string>
+	<key>Alerts are off</key>
+	<string>Hinweise sind aus</string>
+	<key>Alerts enabled</key>
+	<string>Hinweise aktiviert</string>
+	<key>Autumn</key>
+	<string>Herbst</string>
+	<key>Backyard Coop</key>
+	<string>Backyard Coop</string>
+	<key>Baseline: 115 g per hen daily. This is a planning estimate, not a feed formulation.</key>
+	<string>Richtwert: 115 g je Henne täglich. Eine Planungshilfe, keine Futterrezeptur.</string>
+	<key>Bird card</key>
+	<string>Vogelkarte</string>
+	<key>Bird details</key>
+	<string>Vogeldaten</string>
+	<key>Birds</key>
+	<string>Vögel</string>
+	<key>Breed</key>
+	<string>Rasse</string>
+	<key>Breed not recorded</key>
+	<string>Rasse nicht erfasst</string>
+	<key>Camera access is off. Choose a photo or enable the camera in device Settings.</key>
+	<string>Kamerazugriff aus. Foto auswählen oder Kamera in den Geräteeinstellungen aktivieren.</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Care</key>
+	<string>Pflege</string>
+	<key>Care calendar</key>
+	<string>Pflegekalender</string>
+	<key>Care due</key>
+	<string>Pflege fällig</string>
+	<key>Care notifications</key>
+	<string>Pflegehinweise</string>
+	<key>Care reminder</key>
+	<string>Pflegeerinnerung</string>
+	<key>Care today</key>
+	<string>Pflege heute</string>
+	<key>Category</key>
+	<string>Kategorie</string>
+	<key>Changes in laying</key>
+	<string>Veränderte Legeleistung</string>
+	<key>Check feather bases, skin and coop crevices for irritation or tiny moving specks. Pale combs, feather damage and reduced laying can have many causes. Record what you see and ask a poultry veterinarian to identify the problem before treatment. Keep bedding clean and inspect the rest of the flock.</key>
+	<string>Federansätze, Haut und Stallritzen auf Reizung oder kleine bewegliche Punkte prüfen. Blasse Kämme, Federschäden und weniger Eier können viele Ursachen haben. Beobachtungen notieren und vor Behandlung tierärztlich abklären lassen. Einstreu sauber halten und übrige Vögel prüfen.</string>
+	<key>Check predator barriers</key>
+	<string>Raubtierschutz prüfen</string>
+	<key>Check shade and water</key>
+	<string>Schatten und Wasser prüfen</string>
+	<key>Check shelter for drafts</key>
+	<string>Stall auf Zugluft prüfen</string>
+	<key>Check ventilation daily</key>
+	<string>Belüftung täglich prüfen</string>
+	<key>Choose bird photo</key>
+	<string>Vogelfoto auswählen</string>
+	<key>Choose the season where you live. Checks are kept for the current year.</key>
+	<string>Wähle deine örtliche Jahreszeit. Die Häkchen gelten für das aktuelle Jahr.</string>
+	<key>Collect eggs</key>
+	<string>Eier einsammeln</string>
+	<key>Collection date</key>
+	<string>Sammeldatum</string>
+	<key>Complete care</key>
+	<string>Pflege abschließen</string>
+	<key>Complete layer feed</key>
+	<string>Legehennen richtig füttern</string>
+	<key>Could not create the report.</key>
+	<string>Bericht konnte nicht erstellt werden.</string>
+	<key>Could not read the local journal. Your file was kept.</key>
+	<string>Lokales Tagebuch nicht lesbar. Die Datei wurde bewahrt.</string>
+	<key>Could not save. Please check available device storage.</key>
+	<string>Speichern fehlgeschlagen. Bitte freien Gerätespeicher prüfen.</string>
+	<key>Could not write to Apple Reminders. Your local care record is safe.</key>
+	<string>Schreiben in Apple Erinnerungen fehlgeschlagen. Die lokale Pflege bleibt erhalten.</string>
+	<key>Create a list in Apple Reminders first.</key>
+	<string>Zuerst eine Liste in Apple Erinnerungen erstellen.</string>
+	<key>Days</key>
+	<string>Tage</string>
+	<key>Deep clean the coop</key>
+	<string>Stall gründlich reinigen</string>
+	<key>Delete record</key>
+	<string>Eintrag löschen</string>
+	<key>Delete this record?</key>
+	<string>Diesen Eintrag löschen?</string>
+	<key>Done</key>
+	<string>Fertig</string>
+	<key>Due</key>
+	<string>Fällig</string>
+	<key>Egg collection</key>
+	<string>Eiersammlung</string>
+	<key>Egg count</key>
+	<string>Eieranzahl</string>
+	<key>Egg journal</key>
+	<string>Eiertagebuch</string>
+	<key>Egg totals, feed supplies and the care your flock needs today.</key>
+	<string>Eierzahlen, Futtervorräte und die Pflege für deinen Bestand heute.</string>
+	<key>Eggs</key>
+	<string>Eier</string>
+	<key>Eggs collected</key>
+	<string>Gesammelte Eier</string>
+	<key>Enable care alerts</key>
+	<string>Pflegehinweise aktivieren</string>
+	<key>Every egg, accounted for.</key>
+	<string>Jedes Ei im Blick.</string>
+	<key>Everyday biosecurity</key>
+	<string>Biosicherheit im Alltag</string>
+	<key>Export report</key>
+	<string>Bericht exportieren</string>
+	<key>Feed</key>
+	<string>Futter</string>
+	<key>Feed &amp; health library</key>
+	<string>Futter- und Gesundheitswissen</string>
+	<key>Feed &amp; supplies</key>
+	<string>Futter &amp; Vorrat</string>
+	<key>Feed entry</key>
+	<string>Futtereintrag</string>
+	<key>Feed name</key>
+	<string>Futtername</string>
+	<key>Feed needed</key>
+	<string>Futterbedarf</string>
+	<key>Feed store</key>
+	<string>Futtervorrat</string>
+	<key>Feed used (kg)</key>
+	<string>Futterverbrauch (kg)</string>
+	<key>Feeding</key>
+	<string>Fütterung</string>
+	<key>Field guide</key>
+	<string>Praxisratgeber</string>
+	<key>Flock</key>
+	<string>Bestand</string>
+	<key>For adult laying hens on complete layer feed. Adjust to the feed label, bird condition and local advice.</key>
+	<string>Für erwachsene Legehennen mit Alleinfutter. An Futteretikett, Tierzustand und örtliche Beratung anpassen.</string>
+	<key>Get a local alert at each care time. Permission is optional and can be changed in device Settings.</key>
+	<string>Erhalte lokale Hinweise zur Pflegezeit. Die Erlaubnis ist optional und in den Geräteeinstellungen änderbar.</string>
+	<key>Good feed. Healthy hens.</key>
+	<string>Gutes Futter. Gesunde Hennen.</string>
+	<key>Grams per bird / day</key>
+	<string>Gramm pro Vogel / Tag</string>
+	<key>Guide</key>
+	<string>Ratgeber</string>
+	<key>Hatch date</key>
+	<string>Schlupfdatum</string>
+	<key>Health check</key>
+	<string>Gesundheitskontrolle</string>
+	<key>Include completed</key>
+	<string>Erledigte anzeigen</string>
+	<key>Inspect birds and bedding</key>
+	<string>Vögel und Einstreu prüfen</string>
+	<key>Inspect for mites</key>
+	<string>Auf Milben prüfen</string>
+	<key>Inspect roof and fencing</key>
+	<string>Dach und Zaun prüfen</string>
+	<key>Journal</key>
+	<string>Tagebuch</string>
+	<key>Keep an eye on supplies</key>
+	<string>Vorräte im Blick behalten</string>
+	<key>Keep bedding dry</key>
+	<string>Einstreu trocken halten</string>
+	<key>Keep drinking water unfrozen</key>
+	<string>Trinkwasser eisfrei halten</string>
+	<key>Keep feed cool and dry</key>
+	<string>Futter kühl und trocken lagern</string>
+	<key>Keep wild birds and rodents away from feed and water. Use dedicated coop footwear and wash hands after handling birds or equipment. Keep new arrivals separate and ask a veterinarian about a suitable quarantine plan. Clean drinkers and keep bedding dry. Avoid sharing equipment between flocks.</key>
+	<string>Wildvögel und Nager von Futter und Wasser fernhalten. Eigene Stallschuhe tragen und nach Kontakt Hände waschen. Neuzugänge getrennt halten und tierärztlich zur Quarantäne beraten lassen. Tränken reinigen und Einstreu trocken halten. Geräte nicht zwischen Beständen teilen.</string>
+	<key>Last 7 days</key>
+	<string>Letzte 7 Tage</string>
+	<key>Little routines,
+lasting wellbeing.</key>
+	<string>Kleine Routinen,
+dauerhaftes Wohlbefinden.</string>
+	<key>Log eggs</key>
+	<string>Eier erfassen</string>
+	<key>Make room for your flock</key>
+	<string>Platz für deinen Bestand</string>
+	<key>Mites and parasites</key>
+	<string>Milben und Parasiten</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>No ads, purchases, analytics or tracking. Flock photos, notes and care records stay on your device. If enabled, iCloud stores them in your private Apple account. Apple Reminders receives only care items you choose to send. Shared reports are controlled by you. Delete any record from its edit screen. No account is required. The field guide is educational and does not diagnose illness; contact a poultry veterinarian for sick birds.</key>
+	<string>Keine Werbung, Käufe, Analyse oder Tracking. Fotos, Notizen und Pflege bleiben auf deinem Gerät. Optional speichert iCloud sie in deinem privaten Apple-Konto. Apple Erinnerungen erhält nur die von dir gesendeten Pflegeaufgaben. Du entscheidest, mit wem du Berichte teilst. Einträge lassen sich im Bearbeitungsfenster löschen. Kein Konto nötig. Der Ratgeber dient der Information und stellt keine Diagnose. Bei kranken Vögeln einen Geflügeltierarzt kontaktieren.</string>
+	<key>No care due</key>
+	<string>Keine Pflege fällig</string>
+	<key>Notes</key>
+	<string>Notizen</string>
+	<key>Notifications are off. Care stays in the app; you can enable alerts in Settings.</key>
+	<string>Hinweise aus. Pflege bleibt in der App; Hinweise in Einstellungen aktivierbar.</string>
+	<key>Notifications are unavailable. Care stays saved locally.</key>
+	<string>Hinweise nicht verfügbar. Pflege bleibt lokal gespeichert.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open device Settings</key>
+	<string>Geräteeinstellungen öffnen</string>
+	<key>Other</key>
+	<string>Sonstiges</string>
+	<key>Plan feeding, egg collection or a health check. Alerts are optional; the calendar always works offline.</key>
+	<string>Plane Fütterung, Eiersammlung oder Gesundheitskontrollen. Hinweise sind optional; der Kalender funktioniert offline.</string>
+	<key>Privacy</key>
+	<string>Datenschutz</string>
+	<key>Privacy &amp; app information</key>
+	<string>Datenschutz &amp; App-Info</string>
+	<key>Private by nature. Works offline.</key>
+	<string>Privat. Auch offline nutzbar.</string>
+	<key>Quantity (kg)</key>
+	<string>Menge (kg)</string>
+	<key>Ration planner</key>
+	<string>Futterplaner</string>
+	<key>Read the source</key>
+	<string>Quelle lesen</string>
+	<key>Record each collection. The chart totals all collections for each day.</key>
+	<string>Erfasse jede Sammlung. Das Diagramm summiert alle Sammlungen pro Tag.</string>
+	<key>Record feed used</key>
+	<string>Futterverbrauch erfassen</string>
+	<key>Reference</key>
+	<string>Quelle</string>
+	<key>Reminders access was declined. Your care schedule remains available here.</key>
+	<string>Zugriff auf Erinnerungen abgelehnt. Der Pflegeplan bleibt hier verfügbar.</string>
+	<key>Remove photo</key>
+	<string>Foto entfernen</string>
+	<key>Repeat every (days)</key>
+	<string>Wiederholung (Tage)</string>
+	<key>Repeating care creates the next due date when completed. Up to 60 upcoming alerts are scheduled; opening the app refreshes them.</key>
+	<string>Wiederholte Pflege erzeugt beim Abschließen den nächsten Termin. Bis zu 60 Hinweise werden geplant und beim Öffnen aktualisiert.</string>
+	<key>Respiratory warning signs</key>
+	<string>Warnzeichen der Atmung</string>
+	<key>Review feed supplies</key>
+	<string>Futtervorräte prüfen</string>
+	<key>Save</key>
+	<string>Speichern</string>
+	<key>Saved to Apple Reminders. Future edits there do not change this journal.</key>
+	<string>In Apple Erinnerungen gespeichert. Dortige Änderungen ändern dieses Tagebuch nicht.</string>
+	<key>Search the guide</key>
+	<string>Ratgeber durchsuchen</string>
+	<key>Season</key>
+	<string>Jahreszeit</string>
+	<key>Seasonal checklist</key>
+	<string>Saisonale Checkliste</string>
+	<key>Send to Apple Reminders</key>
+	<string>An Apple Erinnerungen senden</string>
+	<key>Sending creates or updates a copy in Apple Reminders. Your local schedule also works without access.</key>
+	<string>Erstellt oder aktualisiert eine Kopie in Apple Erinnerungen. Der lokale Plan funktioniert auch ohne Zugriff.</string>
+	<key>Settings</key>
+	<string>Einstellungen</string>
+	<key>Show all dates</key>
+	<string>Alle Termine anzeigen</string>
+	<key>Sign in to iCloud to sync. Local records are safe.</key>
+	<string>Für die Synchronisierung bei iCloud anmelden. Lokale Daten bleiben erhalten.</string>
+	<key>Spring</key>
+	<string>Frühling</string>
+	<key>Stored on this device</key>
+	<string>Auf diesem Gerät gespeichert</string>
+	<key>Sudden deaths, severe breathing trouble or several sick birds at once need urgent veterinary advice. Keep people and equipment from moving between flocks. Contact your local animal-health authority about current avian influenza guidance and reporting rules. The offline guide does not provide current outbreak status.</key>
+	<string>Plötzliche Todesfälle, schwere Atemnot oder mehrere kranke Vögel zugleich brauchen sofort tierärztliche Hilfe. Personen und Geräte nicht zwischen Beständen bewegen. Bei der örtlichen Tiergesundheitsbehörde aktuelle Hinweise zur Vogelgrippe und Meldepflicht erfragen. Dieser Offline-Ratgeber zeigt keine aktuelle Seuchenlage.</string>
+	<key>Sudden illness in the flock</key>
+	<string>Plötzliche Erkrankung im Bestand</string>
+	<key>Summer</key>
+	<string>Sommer</string>
+	<key>Sync now</key>
+	<string>Jetzt synchronisieren</string>
+	<key>Sync uses your private iCloud storage. The newest edit wins for each record. Records and photos are always kept locally; sync errors never remove them.</key>
+	<string>Die Synchronisierung nutzt deinen privaten iCloud-Speicher. Pro Eintrag gilt die neueste Änderung. Daten und Fotos bleiben lokal; Fehler löschen sie nicht.</string>
+	<key>Sync with iCloud</key>
+	<string>Mit iCloud synchronisieren</string>
+	<key>Syncing with iCloud…</key>
+	<string>iCloud wird synchronisiert…</string>
+	<key>Take bird photo</key>
+	<string>Vogel fotografieren</string>
+	<key>Task name</key>
+	<string>Aufgabe</string>
+	<key>The amount is deducted from your oldest feed entries first.</key>
+	<string>Die Menge wird zuerst von den ältesten Vorräten abgezogen.</string>
+	<key>This photo could not be opened.</key>
+	<string>Dieses Foto konnte nicht geöffnet werden.</string>
+	<key>Up to date in iCloud</key>
+	<string>In iCloud aktuell</string>
+	<key>Use a complete feed labelled for adult laying hens. A useful planning baseline is about 115 g per hen daily; real intake varies with breed, temperature and production. Follow the feed label and monitor body condition. Do not give high-calcium layer feed to growing chicks. Keep fresh water available.</key>
+	<string>Für erwachsene Legehennen ein entsprechendes Alleinfutter verwenden. Etwa 115 g pro Henne täglich sind ein Planungsrichtwert; Aufnahme hängt von Rasse, Temperatur und Legeleistung ab. Futteretikett beachten und Körperzustand prüfen. Küken kein kalziumreiches Legefutter geben. Stets frisches Wasser anbieten.</string>
+	<key>Weekly eggs</key>
+	<string>Eier diese Woche</string>
+	<key>Wheezing, repeated sneezing, discharge, reduced appetite or unusual quietness need attention. Separate an unwell bird, provide water and contact a poultry veterinarian. Breathing difficulty or sudden deaths require urgent advice. A journal cannot identify the cause; do not choose medicines from symptoms alone.</key>
+	<string>Röcheln, häufiges Niesen, Ausfluss, Appetitverlust oder ungewöhnliche Ruhe beachten. Kranke Vögel absondern, Wasser anbieten und einen Geflügeltierarzt kontaktieren. Atemnot oder plötzliche Todesfälle sind dringend. Ein Tagebuch erkennt keine Ursache; Medikamente nicht allein nach Symptomen wählen.</string>
+	<key>Winter</key>
+	<string>Winter</string>
+	<key>YOUR LITTLE FARM</key>
+	<string>DEIN KLEINER HOF</string>
+	<key>Your birds</key>
+	<string>Deine Vögel</string>
+	<key>Your data</key>
+	<string>Deine Daten</string>
+	<key>Your egg diary starts here</key>
+	<string>Hier beginnt dein Eiertagebuch</string>
+	<key>Your flock care is due.</key>
+	<string>Zeit für die Pflege deiner Vögel.</string>
+	<key>iCloud account changed. Sync is paused to protect this journal.</key>
+	<string>iCloud-Konto geändert. Die Synchronisierung pausiert zum Schutz des Tagebuchs.</string>
+	<key>iCloud is unavailable. Everything stays on this device.</key>
+	<string>iCloud nicht verfügbar. Alles bleibt auf diesem Gerät.</string>
+	<key>iCloud journal</key>
+	<string>iCloud-Tagebuch</string>
+	<key>kg in store</key>
+	<string>kg im Vorrat</string>
+	<key>reminders</key>
+	<string>Erinnerungen</string>
+</dict>
+</plist>

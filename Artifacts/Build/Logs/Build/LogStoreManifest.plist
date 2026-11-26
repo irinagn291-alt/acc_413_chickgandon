@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>1AA2ED42-B726-4BB4-959B-C3AE243FE144</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AA2ED42-B726-4BB4-959B-C3AE243FE144.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>42</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackyardCoop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Paddock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BackyardCoop with scheme Paddock and configuration FieldDebug</string>
+			<key>timeStartedRecording</key>
+			<real>816427584.696262</real>
+			<key>timeStoppedRecording</key>
+			<real>816427636.58915496</real>
+			<key>title</key>
+			<string>Building project BackyardCoop with scheme Paddock and configuration FieldDebug</string>
+			<key>uniqueIdentifier</key>
+			<string>1AA2ED42-B726-4BB4-959B-C3AE243FE144</string>
+		</dict>
+		<key>7A2732F3-39C9-46A2-9ACD-8CA5F69464DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A2732F3-39C9-46A2-9ACD-8CA5F69464DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackyardCoop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Paddock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BackyardCoop with scheme Paddock and configuration FieldDebug</string>
+			<key>timeStartedRecording</key>
+			<real>816427658.594414</real>
+			<key>timeStoppedRecording</key>
+			<real>816427790.51853204</real>
+			<key>title</key>
+			<string>Building project BackyardCoop with scheme Paddock and configuration FieldDebug</string>
+			<key>uniqueIdentifier</key>
+			<string>7A2732F3-39C9-46A2-9ACD-8CA5F69464DB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

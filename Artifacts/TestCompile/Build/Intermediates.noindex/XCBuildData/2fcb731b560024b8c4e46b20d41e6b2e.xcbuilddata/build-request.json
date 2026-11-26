@@ -1,0 +1,72 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3d737f1cd93ac1b6e581c4dd091262598b68c0020228c702d9f48270f17cc9d1"
+    },
+    {
+      "guid" : "3d737f1cd93ac1b6e581c4dd091262594213c37b89dbe2fe0059be68f5cd8dcd"
+    },
+    {
+      "guid" : "3d737f1cd93ac1b6e581c4dd091262592518cd5b8e0977968c4a54a1c0aad280"
+    }
+  ],
+  "containerPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/BackyardCoop.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator27.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/TestCompile/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/TestCompile/Build/Products",
+      "derivedDataPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/TestCompile",
+      "indexDataStoreFolderPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/TestCompile/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/TestCompile/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/TestCompile/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "FieldDebug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64",
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.922.4 $(inherited)"
+        }
+      }
+    }
+  },
+  "schedulerLaneWidthOverride" : 2,
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

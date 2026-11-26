@@ -1,0 +1,91 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3d737f1cd93ac1b6e581c4dd091262598b68c0020228c702d9f48270f17cc9d1"
+    }
+  ],
+  "containerPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/BackyardCoop.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos27.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Products",
+      "derivedDataPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild",
+      "indexDataStoreFolderPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "OrchardRelease",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "GCC_GENERATE_DEBUGGING_SYMBOLS" : "NO",
+          "OTHER_CFLAGS" : "$(inherited) -fdebug-prefix-map=/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop=.",
+          "OTHER_SWIFT_FLAGS" : "$(inherited) -debug-prefix-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop=."
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath/ProductIcon.png",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_SIGNATURE_AGGREGATION" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/PrecompiledHeaders",
+          "SIGNATURE_METADATA_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath/Signatures",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.922.4 $(inherited)",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/04_backyard_coop/Artifacts/ReleaseBuild/Build/Intermediates.noindex/ArchiveIntermediates/Paddock/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schedulerLaneWidthOverride" : 2,
+  "schemeCommand" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

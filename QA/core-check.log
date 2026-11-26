@@ -1,0 +1,8 @@
+PASS daily aggregation
+PASS seven day boundary
+PASS ration calculation
+PASS negative ration clamped
+PASS deletion wins merge
+PASS overdue care and completed filtering
+PASS CSV formula and quote escaping
+PASS photo and journal round trip

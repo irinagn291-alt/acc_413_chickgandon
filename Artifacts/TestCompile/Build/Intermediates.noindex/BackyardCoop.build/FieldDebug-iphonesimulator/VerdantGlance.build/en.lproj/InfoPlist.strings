@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Take a portrait to recognize a bird in your flock journal.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choose an existing bird picture for its flock card.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Save and update the poultry care tasks you choose in Apple Reminders.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Copy selected poultry care tasks into your Apple Reminders lists.</string>
+</dict>
+</plist>

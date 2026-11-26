@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'WingChecks' in project 'BackyardCoop'
+➜ Explicit dependency on target 'Paddock' in project 'BackyardCoop'
+Target 'GrainChecks' in project 'BackyardCoop'
+➜ Explicit dependency on target 'Paddock' in project 'BackyardCoop'
+Target 'Paddock' in project 'BackyardCoop'
+➜ Explicit dependency on target 'VerdantGlance' in project 'BackyardCoop'
+Target 'VerdantGlance' in project 'BackyardCoop' (no dependencies)

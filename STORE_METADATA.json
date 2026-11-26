@@ -1,0 +1,30 @@
+{
+  "ageRating": "4+",
+  "price": "Free",
+  "localizations": {
+    "en": {
+      "name": "Chickgandon",
+      "subtitle": "Flock, eggs & everyday care",
+      "keywords": "backyard chickens,poultry tracker,hen keeping,egg journal,feed calculator,flock,care calendar",
+      "description": "Keep bird cards and photos, record egg collections, plan adult layer feed and track supplies. Build a care calendar with optional local alerts and send selected tasks to Apple Reminders. Read the bundled field guide, check seasonal routines, share a CSV report and view your flock in Home Screen and Lock Screen widgets. Works offline. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again. No ads or purchases."
+    },
+    "de": {
+      "name": "Chickgandon",
+      "subtitle": "Bestand, Eier und Pflege",
+      "keywords": "Hühner,Geflügel,Legehennen,Eiertagebuch,Futterrechner,Bestand,Pflegekalender,Hühnerhaltung",
+      "description": "Vogelkartei mit Fotos, Eiersammlungen, Futterplanung für erwachsene Legehennen und Vorratsverwaltung. Pflegekalender mit optionalen lokalen Hinweisen und Übertragung an Apple Erinnerungen. Offline-Ratgeber, saisonale Checklisten, CSV-Export und Widgets für Home- und Sperrbildschirm. Offline nutzbar. Öffne eine Datei oder sende jemandem direkt eine Kopie. Änderungen bleiben bis zur nächsten Freigabe auf diesem Gerät. Keine Werbung oder Käufe."
+    },
+    "fr": {
+      "name": "Chickgandon",
+      "subtitle": "Ponte et soins du poulailler",
+      "keywords": "poules,poulailler,volaille,ponte,journal,alimentation,soins,œufs,élevage",
+      "description": "Fiches d’oiseaux avec photos, collecte d’œufs, calcul de ration pour pondeuses adultes et réserves d’aliments. Calendrier de soins avec alertes locales facultatives et envoi vers Rappels Apple. Guide intégré hors ligne, listes saisonnières, export CSV et widgets pour l’accueil et l’écran verrouillé. Ouvrez un fichier ou envoyez une copie directement à un proche. Les modifications restent sur cet appareil jusqu’au prochain partage. Aucune publicité ni achat."
+    },
+    "pt-BR": {
+      "name": "Chickgandon",
+      "subtitle": "Plantel, ovos e cuidados",
+      "keywords": "galinhas,aves,postura,ovos,diário,ração,plantel,galinheiro,cuidados",
+      "description": "Fichas de aves com fotos, coleta de ovos, cálculo de ração para poedeiras adultas e controle de estoque. Calendário de cuidados com alertas locais opcionais e envio ao Lembretes da Apple. Guia offline, listas sazonais, exportação CSV e widgets para a tela de início e bloqueada. Funciona offline. Abra um arquivo ou envie uma cópia diretamente a alguém. As alterações ficam neste dispositivo até o próximo envio. Sem anúncios ou compras."
+    }
+  }
+}
